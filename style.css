@@ -1,0 +1,29 @@
+h4.author-name {
+    text-transform: capitalize;
+}
+
+h4.author-name a {
+    text-decoration: none;
+    color: #5e6fb5;
+    font-size: 23px;
+    font-weight: 300;
+}
+
+.comment-item {
+    margin-top: 20px;
+}
+
+.comment-item p {
+    margin-bottom: 15px;
+    font-weight: 300;
+    line-height: 35px;
+}
+
+.latest-comments-sec {
+    box-shadow: 0px 0px 5px 0px #ccc;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.comment-item {
+    border-bottom: 1px solid #ccc;
+  }
